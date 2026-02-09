@@ -1,6 +1,6 @@
 {
   "name": "rzjs",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "RxJS repackaged for Stream-Oriented Programming",
   "main": "index.ts",
   "type": "module",
@@ -15,6 +15,7 @@
     "observable",
     "reactive",
     "stream",
+    "sop",
     "sp",
     "stream-oriented",
     "stream-oriented programming",
