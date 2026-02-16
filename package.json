@@ -1,6 +1,6 @@
 {
   "name": "rzjs",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "RxJS repackaged for Stream-Oriented Programming",
   "main": "index.ts",
   "type": "module",
